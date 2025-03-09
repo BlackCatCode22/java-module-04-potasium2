@@ -1,0 +1,24 @@
+Species: Hyena, Count: 4
+Name: Kimba, Age: 4
+Name: Samson, Age: 12
+Name: Ryker, Age: 4
+Name: Lion Names:, Age: 8
+
+Species: Lion, Count: 4
+Name: Scar, Age: 6
+Name: Kiara, Age: 12
+Name: Baloo, Age: 22
+Name: Elsa, Age: 4
+
+Species: Bear, Count: 4
+Name: Bungle, Age: 7
+Name: Bungle, Age: 25
+Name: Snuggles, Age: 4
+Name: Tony, Age: 4
+
+Species: Tiger, Count: 4
+Name: Dave, Age: 2
+Name: Cuddles, Age: 4
+Name: Amber, Age: 18
+Name: Tigger, Age: 3
+
